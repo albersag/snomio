@@ -1,4 +1,4 @@
-# BMP XML Sensor for Snom Phones
+# BMP180 Temperature Sensor XML Application for Snom Phones
 
 ## Concept
 
