@@ -26,6 +26,9 @@ This device has several inputs/outputs that could be used to connect sensors, as
 3) You must connect to this BMP180_Snomio and you will be prompted to select your WIFI. Once you enter your SSID and PASSWORD device is connected to your WIFI network. You need to search for your device IP. You can search for that in your router, or connecting wemos via serial.
 
   ![Wifi connection](docs/wifi.png)
+  
+  ![Wifi captative portal](docs/wifi_portal.png)
+  
 
 4) Once its connect you would be able to access to temperature browser using http://IPADDRESS/temperature as shown:
    
